@@ -1,4 +1,4 @@
-mport json
+import json
 import os
 
 from binance.client import Client
